@@ -11,7 +11,7 @@
  Target Server Version : 80030 (8.0.30)
  File Encoding         : 65001
 
- Date: 21/03/2023 21:43:35
+ Date: 22/03/2023 00:10:55
 */
 
 SET NAMES utf8mb4;
@@ -33,56 +33,56 @@ CREATE TABLE `address`  (
 -- ----------------------------
 -- Records of address
 -- ----------------------------
-INSERT INTO `address` VALUES (1, '322 Warner Lane', 'Suite 97', 'Brnaze', '21230');
-INSERT INTO `address` VALUES (2, '3166 6th Drive', 'Apt 89', 'Envigado', '055428');
-INSERT INTO `address` VALUES (3, '64 Lawn Point', 'PO Box 57475', 'Lensk', '678149');
-INSERT INTO `address` VALUES (4, '88 Scoville Pass', 'Suite 84', 'Krajan', '');
-INSERT INTO `address` VALUES (5, '24 Arizona Drive', '', 'Shofirkon', '');
-INSERT INTO `address` VALUES (6, '1 Mccormick Parkway', '8th Floor', 'Sukamaju', '');
-INSERT INTO `address` VALUES (7, '1031 Village Park', 'Room 773', 'Shuiquan', '');
-INSERT INTO `address` VALUES (8, '53935 Stoughton Place', 'Suite 53', 'Cilegi', '');
-INSERT INTO `address` VALUES (9, '38 Orin Terrace', '9th Floor', 'Acevedo', '417088');
-INSERT INTO `address` VALUES (10, '695 Dawn Street', '1st Floor', 'Taipei', '');
-INSERT INTO `address` VALUES (11, '45 Melvin Place', '3rd Floor', 'Tshela', '');
-INSERT INTO `address` VALUES (12, '7938 Randy Place', 'Room 874', 'Tawaramoto', '639-1156');
-INSERT INTO `address` VALUES (13, '062 Sheridan Avenue', 'PO Box 73145', 'Embi', '');
-INSERT INTO `address` VALUES (14, '75062 Marquette Street', 'Apt 56', 'Kohtla-Järve', '');
-INSERT INTO `address` VALUES (15, '3395 Kingsford Point', 'Apt 1418', 'Shwebo', '');
-INSERT INTO `address` VALUES (16, '106 Erie Place', '17th Floor', 'Deán Funes', '5613');
-INSERT INTO `address` VALUES (17, '879 Coolidge Pass', '', 'Ciudad Bolivia', '');
-INSERT INTO `address` VALUES (18, '2240 Dottie Street', 'Suite 25', 'Hengjiang', '');
-INSERT INTO `address` VALUES (19, '09455 Packers Drive', 'Suite 17', 'Ōtake', '741-0092');
-INSERT INTO `address` VALUES (20, '5 Sauthoff Junction', '', 'Duobagou', '');
-INSERT INTO `address` VALUES (21, '76130 Hanover Drive', 'Room 594', 'Maslovka', '394077');
-INSERT INTO `address` VALUES (22, '162 Mifflin Terrace', '4th Floor', 'Shantoudian', '');
-INSERT INTO `address` VALUES (23, '01 Rieder Court', 'PO Box 81498', 'Naikolan', '');
-INSERT INTO `address` VALUES (24, '11 Sauthoff Circle', '', 'Glinojeck', '06-450');
-INSERT INTO `address` VALUES (25, '4903 Old Gate Junction', '', 'Czerniejewo', '62-250');
-INSERT INTO `address` VALUES (26, '8652 Hovde Terrace', 'Room 395', 'Jingling', '');
-INSERT INTO `address` VALUES (27, '0253 Emmet Pass', 'Suite 92', 'Okinawa Número Uno', '');
-INSERT INTO `address` VALUES (28, '18 Mosinee Way', 'Apt 327', 'Sukorejo', '');
-INSERT INTO `address` VALUES (29, '0 Shelley Terrace', 'PO Box 11096', 'Aucallama', '');
-INSERT INTO `address` VALUES (30, '72393 Weeping Birch Trail', 'Apt 729', 'Luftinjë', '');
-INSERT INTO `address` VALUES (31, '56 Gerald Way', '', 'Västra Frölunda', '426 57');
-INSERT INTO `address` VALUES (32, '671 Warbler Center', 'Apt 1092', 'Bicesse', '2645-168');
-INSERT INTO `address` VALUES (33, '5194 Superior Way', '', 'Huangli', '');
-INSERT INTO `address` VALUES (34, '8 Cherokee Circle', 'Suite 27', 'Alemanguan', '3524');
-INSERT INTO `address` VALUES (35, '50596 Meadow Ridge Pass', 'Apt 658', 'Wilamowice', '43-330');
-INSERT INTO `address` VALUES (36, '63 Talmadge Street', 'Apt 1204', 'Xinó Neró', '');
-INSERT INTO `address` VALUES (37, '337 Welch Trail', 'Room 1346', 'Las Toscas', '');
-INSERT INTO `address` VALUES (38, '549 Dovetail Terrace', '', 'Gorna Oryakhovitsa', '5145');
-INSERT INTO `address` VALUES (39, '86570 Lotheville Drive', '1st Floor', 'Hajoho', '');
-INSERT INTO `address` VALUES (40, '7540 Eastlawn Point', 'Suite 98', 'Ficksburg', '9732');
-INSERT INTO `address` VALUES (41, '939 Riverside Street', 'Room 2', 'Saint-Raymond', 'G3L');
-INSERT INTO `address` VALUES (42, '9852 Bartillon Terrace', '', 'Łęczyce', '84-218');
-INSERT INTO `address` VALUES (43, '8126 Glendale Plaza', 'Apt 1587', 'Pengfang', '');
-INSERT INTO `address` VALUES (44, '0 Karstens Lane', 'Room 1837', 'Randfontein', '1771');
-INSERT INTO `address` VALUES (45, '27816 Sachs Plaza', '', 'Nunutba', '');
-INSERT INTO `address` VALUES (46, '0 Troy Trail', 'PO Box 35456', 'Biritiba Mirim', '08940-000');
-INSERT INTO `address` VALUES (47, '88589 Arrowood Parkway', 'Suite 15', 'Baitu', '');
-INSERT INTO `address` VALUES (48, '9937 Hermina Lane', 'Apt 159', 'Tuchkovo', '143142');
-INSERT INTO `address` VALUES (49, '1 Bartelt Drive', 'Room 1645', 'Zharkent', '');
-INSERT INTO `address` VALUES (50, '0 Twin Pines Road', 'Apt 1295', 'Grand Junction', '81505');
+INSERT INTO `address` VALUES (1, '322 Warner Lane', 'Suite 97', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (2, '3166 6th Drive', 'Apt 89', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (3, '64 Lawn Point', 'PO Box 57475', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (4, '88 Scoville Pass', 'Suite 84', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (5, '24 Arizona Drive', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (6, '1 Mccormick Parkway', '8th Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (7, '1031 Village Park', 'Room 773', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (8, '53935 Stoughton Place', 'Suite 53', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (9, '38 Orin Terrace', '9th Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (10, '695 Dawn Street', '1st Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (11, '45 Melvin Place', '3rd Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (12, '7938 Randy Place', 'Room 874', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (13, '062 Sheridan Avenue', 'PO Box 73145', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (14, '75062 Marquette Street', 'Apt 56', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (15, '3395 Kingsford Point', 'Apt 1418', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (16, '106 Erie Place', '17th Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (17, '879 Coolidge Pass', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (18, '2240 Dottie Street', 'Suite 25', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (19, '09455 Packers Drive', 'Suite 17', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (20, '5 Sauthoff Junction', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (21, '76130 Hanover Drive', 'Room 594', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (22, '162 Mifflin Terrace', '4th Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (23, '01 Rieder Court', 'PO Box 81498', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (24, '11 Sauthoff Circle', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (25, '4903 Old Gate Junction', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (26, '8652 Hovde Terrace', 'Room 395', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (27, '0253 Emmet Pass', 'Suite 92', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (28, '18 Mosinee Way', 'Apt 327', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (29, '0 Shelley Terrace', 'PO Box 11096', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (30, '72393 Weeping Birch Trail', 'Apt 729', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (31, '56 Gerald Way', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (32, '671 Warbler Center', 'Apt 1092', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (33, '5194 Superior Way', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (34, '8 Cherokee Circle', 'Suite 27', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (35, '50596 Meadow Ridge Pass', 'Apt 658', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (36, '63 Talmadge Street', 'Apt 1204', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (37, '337 Welch Trail', 'Room 1346', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (38, '549 Dovetail Terrace', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (39, '86570 Lotheville Drive', '1st Floor', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (40, '7540 Eastlawn Point', 'Suite 98', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (41, '939 Riverside Street', 'Room 2', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (42, '9852 Bartillon Terrace', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (43, '8126 Glendale Plaza', 'Apt 1587', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (44, '0 Karstens Lane', 'Room 1837', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (45, '27816 Sachs Plaza', '', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (46, '0 Troy Trail', 'PO Box 35456', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (47, '88589 Arrowood Parkway', 'Suite 15', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (48, '9937 Hermina Lane', 'Apt 159', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (49, '1 Bartelt Drive', 'Room 1645', 'Eau Claire', '54701');
+INSERT INTO `address` VALUES (50, '0 Twin Pines Road', 'Apt 1295', 'Eau Claire', '54701');
 
 -- ----------------------------
 -- Table structure for customers

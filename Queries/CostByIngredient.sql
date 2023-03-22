@@ -1,6 +1,6 @@
 -- Shows a breakdown of the cost of items per ingredient/recipe, as well as the amount of said ingredient/recipe is ordered.
 SELECT
-   `s1`.`item_name` AS `item_name`,
+   concat(`s1`.`item_cat`, ' ', `s1`.`item_name`, ' ', `s1`.`item_size`) AS `ItemFullName`,
    `s1`.`ing_id` AS `ing_id`,
    `s1`.`ing_name` AS `ing_name`,
    `s1`.`ing_weight` AS `ing_weight`,
@@ -22,6 +22,8 @@ FROM
          `o`.`item_id` AS `item_id`,
          `i`.`sku` AS `sku`,
          `i`.`item_name` AS `item_name`,
+         `i`.`item_cat` AS `item_cat`,
+         `i`.`item_size` AS `item_size`,
          `r`.`ing_id` AS `ing_id`,
          `ing`.`ing_name` AS `ing_name`,
          `r`.`quantity` AS `Recipe_Quantity`,
