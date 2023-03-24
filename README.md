@@ -62,7 +62,7 @@ By combining manual record creation in Excel, mock data generated from Mockaroo 
   
 # Summary
 
-> The concept of this project was to be an all-inclusive, yet accurate representation of the data analysis process.
+The concept of this project was to be an all-inclusive, yet accurate representation of the data analysis process.
 > 
 > *QuickDBD* was an essential tool for designing the database schema, allowing me to map out the structure of the database and define relationships between tables quickly. Integrating data I created in Excel alongside *Mockaroo*, I learned how to generate realistic test data to populate the database and ensure that it accurately reflects a real-world scenario. 
 > 
